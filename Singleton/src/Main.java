@@ -3,6 +3,7 @@ public class Main {
 
         Singleton singleton = Singleton.getInstance();
         System.out.println("Hello world!" + singleton);
+        
 
     }
 }
